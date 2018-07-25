@@ -1,6 +1,7 @@
-ETA,Distance,Route,Time
-54 min,21.0 miles,via US-1 N/U.S. 9 N,Tue Jun 26 10:29:27 2018
-54 min,21.0 miles,via US-1 N/U.S. 9 N,Tue Jun 26 10:29:38 2018
-55 min,21.0 miles,via US-1 N/U.S. 9 N,Tue Jun 26 10:29:50 2018
-57 min,20.9 miles,via US-1 N/U.S. 9 N,Tue Jun 26 10:30:02 2018
-57 min,20.9 miles,via US-1 N/U.S. 9 N,Tue Jun 26 10:30:13 2018
+Route Number,ETA,Distance,Route,Time
+1,57 min,20.9 miles,via I-95 N,Wed Jul 25 12:51:48 2018
+2,1 h 6 min,31.4 miles,via I-95 N and NY-9A S,Wed Jul 25 12:51:48 2018
+3,1 h 8 min,24.7 miles,via I-78 E,Wed Jul 25 12:51:48 2018
+1,54 min,21.1 miles,via I-95 N,Wed Jul 25 12:52:02 2018
+2,1 h 5 min,31.4 miles,via I-95 N and NY-9A S,Wed Jul 25 12:52:02 2018
+3,1 h 8 min,24.7 miles,via I-78 E,Wed Jul 25 12:52:02 2018

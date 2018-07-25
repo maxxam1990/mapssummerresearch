@@ -1,3 +1,7 @@
-ETA,Distance,Route,Time
-1:28,38.4 mi,"Via Garden State Pkwy, I-80 E",Tue Jun 26 10:00:19 2018
-1:28,38.4 mi,"Via Garden State Pkwy, I-80 E",Tue Jun 26 10:00:45 2018
+Route Number,ETA,Distance,Route,Time
+1,1:30,21.9 mi,"Via I-95 N, RT-495 E",Wed Jul 25 12:50:49 2018
+2,1:51,22.1 mi,"Via I-78 E, RT-9A N",Wed Jul 25 12:50:49 2018
+3,2:00,31.7 mi,"Via I-278 E, FDR Dr N",Wed Jul 25 12:50:49 2018
+1,1:30,21.9 mi,"Via I-95 N, RT-495 E",Wed Jul 25 12:51:01 2018
+2,1:51,22.1 mi,"Via I-78 E, RT-9A N",Wed Jul 25 12:51:01 2018
+3,2:00,31.7 mi,"Via I-278 E, FDR Dr N",Wed Jul 25 12:51:01 2018
